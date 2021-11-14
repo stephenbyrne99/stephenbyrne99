@@ -1,7 +1,5 @@
 Hello Anon,
 
-Welcome.
-
 ### Socials: 
 [![Twitter: 0xStephenByrne](https://img.shields.io/twitter/follow/0xStephenByrne?style=social)](https://twitter.com/0xStephenByrne)
 [![GitHub @stephenbyrne99](https://img.shields.io/github/followers/stephenbyrne99?label=follow&style=social)](https://github.com/stephenbyrne99)
@@ -22,9 +20,6 @@ Welcome.
 | Frontend |  ![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=flat-square&logo=nuxt.js&logoColor=white)  ![Realm DB](https://img.shields.io/badge/-Realm%20DB-purple?style=flat-square&logo=realm&logoColor=white)  ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)  | -->
 
 ### Some Projects
-
-
-Some Projects:
 
 | URL | Project Name | Description |
 | --- | ------------ | ----------- |
