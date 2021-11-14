@@ -29,4 +29,4 @@ Some Projects:
 | URL | Project Name | Description |
 | --- | ------------ | ----------- |
 | [**URL**](https://github.com/OffcierCia/ultimate-defi-research-base) | DeFi Research Base | Contributor | 
-| [**URL**](https://github.com/ProtektProtocol) | Protekt Protocol | Open Source Insurance Protocol built on Ethereum |
+| [**URL**](https:&#x2F;&#x2F;goa.design) | Protekt Protocol | Open Source Insurance Protocol built on Ethereum |
