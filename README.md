@@ -1,6 +1,6 @@
 Hello Anon,
 
-Web3 not so shadowy but definitely super coder here - mostly closed source but may open source more repo's.
+Welcome.
 
 [![Twitter: 0xStephenByrne](https://img.shields.io/twitter/follow/0xStephenByrne?style=social)](https://twitter.com/0xStephenByrne)
 [![GitHub @stephenbyrne99](https://img.shields.io/github/followers/stephenbyrne99?label=follow&style=social)](https://github.com/stephenbyrne99)
