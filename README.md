@@ -19,9 +19,3 @@ Hello Anon,
 | Backend |  ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)  ![Goa Design framework (also maintainer)](https://img.shields.io/badge/-Goa%20Design%20framework%20(also%20maintainer)-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
 | Frontend |  ![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=flat-square&logo=nuxt.js&logoColor=white)  ![Realm DB](https://img.shields.io/badge/-Realm%20DB-purple?style=flat-square&logo=realm&logoColor=white)  ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)  | -->
 
-### Some Projects
-
-| URL | Project Name | Description |
-| --- | ------------ | ----------- |
-| [**URL**](https://github.com/OffcierCia/ultimate-defi-research-base) | DeFi Research Base | Contributor | 
-| [**URL**](https://github.com/ProtektProtocol) | Protekt Protocol | Open Source Insurance Protocol built on Ethereum |
