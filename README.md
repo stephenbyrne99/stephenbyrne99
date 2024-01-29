@@ -1,4 +1,4 @@
-Hello Anon,
+in build mode. ex V.P of degeneracy at Fox (crypto/ai)
 
 ### Socials: 
 [![Twitter: 0xStephenByrne](https://img.shields.io/twitter/follow/0xStephenByrne?style=social)](https://twitter.com/0xStephenByrne)
