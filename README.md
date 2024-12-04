@@ -6,8 +6,8 @@ in build mode. ex V.P of degeneracy at Fox (crypto/ai)
 [![Linkedin: Stephen Byrne](https://img.shields.io/badge/-Stephen%20Byrne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-byrne-dubline)](https://www.linkedin.com/in/stephen-byrne-dublin)
 
 ### Working on 
-[Big Team](https://bigteam.ai)
-[Outerop](https://outerop.com)
+- [Big Team](https://bigteam.ai)
+- [Outerop](https://outerop.com)
 
 
 <!-- [![Facebook: Alessandro Sanino](https://img.shields.io/badge/-Alessandro%20Sanino-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/therealsaniales)](https://www.facebook.com/therealsaniales)
