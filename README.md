@@ -4,8 +4,16 @@ in build mode. ex V.P of degeneracy at Fox (crypto/ai)
 [![Twitter: 0xStephenByrne](https://img.shields.io/twitter/follow/0xStephenByrne?style=social)](https://twitter.com/0xStephenByrne)
 [![GitHub @stephenbyrne99](https://img.shields.io/github/followers/stephenbyrne99?label=follow&style=social)](https://github.com/stephenbyrne99)
 [![Linkedin: Stephen Byrne](https://img.shields.io/badge/-Stephen%20Byrne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-byrne-dubline)](https://www.linkedin.com/in/stephen-byrne-dublin)
+
+### Working on 
+[Big Team](https://bigteam.ai)
+[Outerop](https://outerop.com)
+
+
 <!-- [![Facebook: Alessandro Sanino](https://img.shields.io/badge/-Alessandro%20Sanino-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/therealsaniales)](https://www.facebook.com/therealsaniales)
 [![Instagram: therealsaniales](https://img.shields.io/badge/-therealsaniales-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/therealsaniales)](https://instagram.com/therealsaniales) -->
+
+
 
 <!-- ## Preferred Tech Stack
 
